@@ -13,3 +13,11 @@ understand programming
 * [part 2](http://ruslanspivak.com/lsbaws-part2/)
 
 * [part 3](http://ruslanspivak.com/lsbaws-part3/)
+
+
+[Performance without event loop using Go](http://dave.cheney.net/2015/08/08/performance-without-the-event-loop)
+
+* concepts on processes, threads, Goroutines, context switches, process space, stack management, integrated network poller etc.
+
+
+
