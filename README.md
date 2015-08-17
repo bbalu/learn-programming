@@ -20,4 +20,4 @@ understand programming
 * concepts on processes, threads, Goroutines, context switches, process space, stack management, integrated network poller etc.
 
 
-
+[Notes on Distributed systems for young bloods by Jeff Hodges](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
